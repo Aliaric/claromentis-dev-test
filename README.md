@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Demo
 
-[Comic Talk](http://comictalk.ddns.net)
+[Comic Talk](http://caloremntisdevtest.ddns.net)
 ```
 l:demo
 p:demo 
